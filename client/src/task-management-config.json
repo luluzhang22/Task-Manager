@@ -1,0 +1,26 @@
+{
+    "defaultStatusValue": {
+        "all": "All",
+        "complete": "Complete",
+        "pending": "Pending"
+    },
+    "defaultSortValue": {
+        "sortByCategory": "sortByCategory",
+        "sortByDefault": "sortByDefault",
+        "sortByDueDate": "sortByDueDate"
+    },
+    "emptyCategoryMessage": "There's no category. Please add categories before adding tasks",
+    "emptyListMessage": "You have no tasks! Plase use '+' button to add new Tasks or choose 'All' to remove filter condition.",
+    "filterSortAttribute": {
+        "category": "category",
+        "sort": "sort",
+        "status": "status"
+    },
+    "pageTitle": "Task Manager",
+    "taskModalWarningMessage": {
+        "titleEmpty": "Title must not be empty! Please add a title."
+    },
+    "welcomeMessage": "Welcome User",
+    "fullCategoryMessage": "Category is full: Category cannot be more than",
+    "categoryMaxLength" : 10
+}

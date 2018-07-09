@@ -1,0 +1,26 @@
+{
+  "name": "task-management",
+  "version": "2.0.0",
+  "description": "This package is used for task management web page, which will let single user to track task process.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cd client && npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seainfo6250/teal.git"
+  },
+  "author": "Teal team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seainfo6250/teal/issues"
+  },
+  "homepage": "https://github.com/seainfo6250/teal#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2"
+  },
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}

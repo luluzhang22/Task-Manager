@@ -1,0 +1,4 @@
+{
+    "defaultCategory": ["Work", "Home", "School", "Pet", "Hobby"],
+    "defaultUserID": [1, 2, 3]
+}
